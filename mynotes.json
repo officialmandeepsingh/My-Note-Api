@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "name": "Mandeep Singh",
+      "emailId": "mandeep@yopmail.com",
+      "password": "Qwerty@123",
+      "id": 1
+    }
+  ],
+  "notes": []
+}
